@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@letsdally/autobind": "^0.1.3"
+  }
+}
